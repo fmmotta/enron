@@ -1,0 +1,3 @@
+References used were the Artificial intelligence nanodegree from udacity, the introduction to data science with python and hyperparameter tuning courses from coursera, and the materials from this present mooc.
+
+"Confirmo que esta submissão é o meu trabalho. Citei acima quaisquer referências e informações retiradas de sites, livros, fóruns, blogs, repositórios github, etc."
